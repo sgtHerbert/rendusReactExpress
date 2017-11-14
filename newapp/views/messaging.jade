@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1 Le super Chat temps réel !
+  form#formulaire_chat(action='', method='post')
+  input#message(type='text', name='message', placeholder='Votre message...', size='50', autofocus='')
+  button#envoi_message(type='submit', value='Envoyer') Envoyer
+  section#zone_chat
+
+  script(src='/javascripts/messaging.js')
+  

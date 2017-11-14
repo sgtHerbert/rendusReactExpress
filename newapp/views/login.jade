@@ -1,0 +1,11 @@
+extends layout
+
+block content
+    form(method='POST')
+        label
+        b Username
+        input(type='text', placeholder='Enter Username', name='name', required='')
+        label
+        b Password
+        input(type='password', placeholder='Enter Password', name='mdp', required='')
+        button(type='submit') Login

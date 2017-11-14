@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "address": "1,rue de la Paix",
+        "ville": "Paris",
+        "pays": "France",
+        "datedisponibilite": "11-10-2017"
+    },
+    {
+        "id": 1,
+        "address": "12, rue Jean Bouin",
+        "ville": "Paris",
+        "pays": "France",
+        "datedisponibilite": "13-12-2017"
+    },
+    {
+        "id": 2,
+        "address": "45, boulevard Reuilly-Diderot",
+        "ville": "Paris",
+        "pays": "France",
+        "datedisponibilite": "03-10-2017"
+    },
+    {
+        "id": 3,
+        "address": "134 bis, rue des Tulipes",
+        "ville": "Bordeaux",
+        "pays": "France",
+        "datedisponibilite": "13-10-2017"
+    },
+    {
+        "id": 4,
+        "address": "54, rue François Mitterand",
+        "ville": "Bordeaux",
+        "pays": "France",
+        "datedisponibilite": "05-11-2017"
+    },
+    {
+        "id": 5,
+        "address": "8, avenue Victor Hugo",
+        "ville": "Dijon",
+        "pays": "France",
+        "datedisponibilite": "21-10-2017"
+    },
+    {
+        "id": 6,
+        "address": "2, avenue du Port",
+        "ville": "Marseille",
+        "pays": "France",
+        "datedisponibilite": "06-06-2017"
+    },
+    {
+        "id": 7,
+        "address": "10, boulevard Marcel Pagnol",
+        "ville": "Marseille",
+        "pays": "France",
+        "datedisponibilite": "07-01-2018"
+    },
+    {
+        "id": 8,
+        "address": "1384 ter, rue de Trifouillis-les-Oies",
+        "ville": "Marseille",
+        "pays": "France",
+        "datedisponibilite": "18-09-2017"
+    },
+    {
+        "id": 9,
+        "address": "5, Kingdom Street",
+        "ville": "Londres",
+        "pays": "Angleterre",
+        "datedisponibilite": "15-10-2017"
+    }
+]
